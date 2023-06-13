@@ -1,0 +1,10 @@
+* session-token
+
+A simple custom alphabet session-token generator built on top of the ISAAC CSPRNG
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Inaimathi/session-token.git   |
+| commit  | e158f52  |
+| systems | session-token |
+|---------+-------------------------------------------|
+
