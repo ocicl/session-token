@@ -8,3 +8,4 @@ A simple custom alphabet session-token generator built on top of the ISAAC CSPRN
 | systems | session-token |
 |---------+-------------------------------------------|
 
+ 
